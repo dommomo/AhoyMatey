@@ -1,0 +1,23 @@
+Concept
+-Point and click ship game
+-isometric view 
+-multiplayer including cross platform
+-the idea is to become king of the seas by defeating enemy pirate ships
+
+Rules
+-you start with 100 health
+-getting shot reduces health
+-move in range of other ships to shoot them
+-guns can only fire in 90 degree arc on SIDE of ship
+-you score for killing the enemy
+-you lose score for being killed
+
+Requirements
+-animated ship
+-terrain with scattered islands
+-SFX: gun, hit, sink
+-background music
+-splash image
+
+Monetisation
+-this will be a free game designed to play with our friends to learn more about networking
